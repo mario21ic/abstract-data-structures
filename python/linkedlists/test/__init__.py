@@ -1,0 +1,3 @@
+from .singlelinkedlist import TestSingleLinkedList
+from .doublelinkedlist import TestDoubleLinkedList
+from .circlelinkedlist import TestCircleLinkedList
